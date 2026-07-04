@@ -1,3 +1,8 @@
-User-agent: *
-Allow: /
-Sitemap: https://www.machinecanvas-wallandfloorprinting.com/sitemap.xml
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.machinecanvas-wallandfloorprinting.com/</loc></url>
+  <url><loc>https://www.machinecanvas-wallandfloorprinting.com/pricing.html</loc></url>
+  <url><loc>https://www.machinecanvas-wallandfloorprinting.com/portfolio.html</loc></url>
+  <url><loc>https://www.machinecanvas-wallandfloorprinting.com/faq.html</loc></url>
+  <url><loc>https://www.machinecanvas-wallandfloorprinting.com/contact.html</loc></url>
+</urlset>
